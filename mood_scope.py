@@ -61,7 +61,6 @@ st.markdown(
 
 if app_mode == 'About the App':
   st.markdown("""
-  # Mood Scope
 Mood Scope detects emotions of people in an image using deep learning
 
 # Installation
