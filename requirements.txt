@@ -1,0 +1,6 @@
+datasets
+transformers
+torchvision
+torch
+streamlit
+plotly
