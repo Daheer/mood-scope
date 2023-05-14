@@ -4,3 +4,4 @@ torchvision
 torch
 streamlit
 plotly
+opencv-python
