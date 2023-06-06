@@ -29,7 +29,7 @@ It also displays the distribution of the moods using a spider chart. The higher 
 
 
 The app is available and can be accessed via two platforms
-- [`Hugging Face Spaces`](https://https://deedax-mood-scope.hf.space/)
+- [`Hugging Face Spaces`](https://deedax-mood-scope.hf.space/)
 - [`Render`](https://mood-scope.onrender.com/)
 
 # Features
